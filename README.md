@@ -7,7 +7,7 @@
 - Python
 - FastAPI
 - PostgreSQL
-- pytest
+- Pydantic
 
 ## Архитектура проекта
 
